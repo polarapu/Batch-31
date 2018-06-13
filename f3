@@ -1,0 +1,17 @@
+cd ..
+git add .
+git commit -m "label"
+
+git push
+git pull
+git push
+
+git log
+
+git log -5
+
+git log --oneline
+
+git log --oneline -5
+
+git log --author=shankar
