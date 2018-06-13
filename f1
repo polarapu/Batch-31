@@ -1,0 +1,11 @@
+cd Batch-31
+
+touch name
+
+add, commit
+
+git add name
+
+git commit -m "label"
+
+git log
